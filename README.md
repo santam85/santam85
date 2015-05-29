@@ -1,2 +1,2 @@
-# santam85
-Github pages
+# santam85.github.io
+Personal page
